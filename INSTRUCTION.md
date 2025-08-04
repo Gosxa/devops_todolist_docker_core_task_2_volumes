@@ -18,7 +18,7 @@ docker run -d \
 ## Run the App container
 ```bash
 docker run -d --name todoapp-container -p 8080:8080 gosxa/todoapp:2.0.0
-
+```
 Access app in browser:
 http://localhost:8080/
 
